@@ -4,3 +4,4 @@ Player: Paco, Score: 39
 Player: Pacheco, Score: 32 
 Player: Pedro, Score: 30 
 Player: loco, Score: 21 
+Player: nico, Score: 2 
